@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ReverseWord",
+            "request": "launch",
+            "mainClass": "ReverseWord",
+            "projectName": "java-problems_f5b9694f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "java-problems_f5b9694f"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateElement",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateElement",
+            "projectName": "java-problems_f5b9694f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateElement",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateElement",
+            "projectName": "birthday_e7eadd0a"
+        }
+    ]
+}
